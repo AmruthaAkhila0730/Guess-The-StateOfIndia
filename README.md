@@ -18,4 +18,4 @@ This is a Python-based state guessing game where the player is shown part of the
 ## How to Run
 
 ```bash
-python state-guessing-game.py
+python guessit.py
